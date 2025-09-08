@@ -1,0 +1,64 @@
+footer {
+    background-color: #214CAD;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    height: 30px;
+
+}
+
+nav {
+    background-color: #214CAD;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 15px;
+    padding-right: 15px;
+
+
+}
+
+nav a:hover {
+    background-color: #fffffff5;
+    color: rgb(0, 0, 0);
+}
+
+.logo-img {
+    display: inline-block;
+    height: 166px;
+    width: 125px;
+    
+    
+}
+
+main {
+    background-color: #D9D9D9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header {
+    font-size: 40px;
+    font-weight: bold;
+    height: 130px;
+    
+
+}
+body {
+    background-color: #EEE9E0;
+}
+
+
+
